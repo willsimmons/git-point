@@ -67,7 +67,7 @@
     "react": "^16.0.0",
     "react-native": "^0.48.4",
     "react-native-actionsheet": "^2.2.0",
-    "react-native-code-push": "^5.0.0-beta",
+    "react-native-code-push": "^5.2.1",
     "react-native-collapsible": "^0.9.0",
     "react-native-communications": "^2.2.1",
     "react-native-config": "^0.6.0",
